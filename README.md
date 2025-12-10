@@ -77,14 +77,13 @@ MegaCollision/
 - **Dashboard Creation**: Tableau and Power BI visualizations
 - **Insight Delivery**: Actionable business intelligence reports
 
-<span style="color:red">
-To view the PowerBI dashboard, could you please request access? I’ll approve it as quickly as possible 🙂
-
-[View the live PowerBI dashboard](https://app.powerbi.com/groups/me/reports/ab58b540-b155-48df-a196-bdbfaf01c224/ReportSection?ctid=a8eec281-aaa3-4dae-ac9b-9a398b9215e7&experience=power-bi&bookmarkGuid=1cb3be2c-c0fd-48a8-b99c-6a971ad80f5b)
-
-In the meantime, you can view the exported dashboard here:  
-[PowerBI Dashboard (PPT Export)](https://github.com/Nishieee/MegaCollision/blob/main/MegaCollision_PowerBI_Dashboards_Export.pptx)
-</span>
+> [!IMPORTANT]
+> To view the PowerBI dashboard, could you please request access? I’ll approve it as quickly as possible 🙂
+>
+> **[View the live PowerBI dashboard](https://app.powerbi.com/groups/me/reports/ab58b540-b155-48df-a196-bdbfaf01c224/ReportSection?ctid=a8eec281-aaa3-4dae-ac9b-9a398b9215e7&experience=power-bi&bookmarkGuid=1cb3be2c-c0fd-48a8-b99c-6a971ad80f5b)**
+>
+> In the meantime, you can view the exported dashboard here:  
+> **[PowerBI Dashboard (PPT Export)](https://github.com/Nishieee/MegaCollision/blob/main/MegaCollision_PowerBI_Dashboards_Export.pptx)**
 
 
 ## 📈 Business Analysis Questions
